@@ -1,6 +1,0 @@
-config:
-  token: ""
-  shards: 1
-  prefix: "::"
-  database: "./database" # Database filename
-  game: ""
